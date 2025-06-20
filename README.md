@@ -12,8 +12,9 @@ This project includes features like:
 ---
 
 ## 📸 Preview
-
-![screenshot](preview.png) <!-- You can add a screenshot later -->
+![Screenshot (49)](https://github.com/user-attachments/assets/03a01a58-48d9-42b6-8b0b-25e019ece642)
+![Screenshot (48)](https://github.com/user-attachments/assets/9f49b916-dad3-4dec-8ff9-df824bcdbd2a)
+![Screenshot (47)](https://github.com/user-attachments/assets/88b24981-ba99-402d-9281-12b863363cd1)
 
 ---
 
@@ -28,24 +29,37 @@ This project includes features like:
 ---
 
 ## 📁 Project Structure
+
 tic-tac-toe/
+
 ├── index.html # Main HTML structure
+
 ├── style.css # Styling of game board and elements
+
 ├── app.js # JavaScript logic (multiplayer + AI)
+
 └── README.md # Project documentation
+
+
 
 ---
 🛠️ Tech Stack
+
 HTML5
 
 CSS3
 
 JavaScript (ES6)
+
+
 🙌 Contributing
 Contributions are welcome!
 Fork the repo, make your changes, and submit a pull request. 🎉
 
+
+
 📬 Author
+
 Made with ❤️ by MOHIT KUMAR
 Feel free to connect and follow me on GitHub for more projects!
 
