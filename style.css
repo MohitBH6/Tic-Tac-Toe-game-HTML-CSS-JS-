@@ -1,0 +1,67 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-color: #669bbc;
+    text-align:center;
+}
+.container{
+    height: 70vh;
+   display:flex;
+    justify-content:center;
+    align-items: center;
+}
+.game{
+    height:60vmin;
+    width:60vmin;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap:1.5vmin;
+
+}
+.box{
+    height:18vmin;
+    width:18vmin;
+    border-radius: 1rem;
+    border:none;
+    color:red;
+    font-size: 100px;
+    background-color: #ffffcf;
+  
+}
+#reset-btn{
+     padding: 1rem;
+     font-size:1.25rem;
+     background-color:#191913;
+     border-radius: 1rem;
+     border:none;
+     color:white;
+}
+
+#reset-btn:hover{
+    background-color: #191913b3;
+    cursor: pointer;
+
+}
+
+/* Updated css  */
+.winner {
+    background-color: lightgreen !important;
+}
+
+.names{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+/* 
+.names #playerX, .names #playerO, .names #vsAI {
+
+    color: #fff;
+      background-color: #ffffcf;
+} */
